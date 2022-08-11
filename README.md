@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zach-brooks
 - 👀 I’m interested in ... blender software more than currently writing code
 - 🌱 I’m currently learning ... R 
-- 💞️ I’m looking to collaborate on ... teleportation and supporting democracy/republic 
+- 💞️ I’m looking to collaborate on ... teleportation (ha! I wish) and supporting democracy/republic 
 - 📫 How to reach me ... zachster4@gmail.com 
 
 <!---
